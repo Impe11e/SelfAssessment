@@ -8,11 +8,11 @@
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID k
   - CQS
-  - Modularity h
-  - Subsystems
-  - Directories h
+  - Modularity u
+  - Subsystems h
+  - Directories u
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming

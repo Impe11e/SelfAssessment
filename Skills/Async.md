@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop h
-  - `try..catch`
+  - `try..catch` u
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,20 +19,20 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread h
+  - Thread k
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise h
   - Async/await h
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter h
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers h
   - `setImmediate`
   - `nextTick`
   - AbortController
