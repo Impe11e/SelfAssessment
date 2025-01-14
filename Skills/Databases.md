@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -25,42 +25,42 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys h
+  - Foreign keys h
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions k
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
+  - `ORDER BY` k
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
   - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `INNER JOIN` k
+  - `LEFT JOIN` k
+  - `RIGHT JOIN` k
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` k
   - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `IN` k
+  - `BETWEEN` k
+  - `CREATE TABLE` k
+  - `ALTER TABLE` k
+  - `DROP TABLE` k
+  - `PRIMARY KEY` h
+  - `FOREIGN KEY` h
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL h
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite k
   - DynamoDB
   - Firebase
 - Data engineering

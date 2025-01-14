@@ -10,9 +10,9 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
+  - Modularity h
   - Subsystems
-  - Directories
+  - Directories h
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -50,7 +50,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML h
   - Work breakdown structure
   - Budget estimation
   - Distributed systems

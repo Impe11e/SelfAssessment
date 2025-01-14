@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop h
   - `try..catch`
   - Non-blocking
   - Async I/O
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread h
   - Process
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await h
   - Future
   - Deferred
   - Sync generator

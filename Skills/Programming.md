@@ -4,22 +4,22 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module u
+  - Library u
+  - Package u
   - Component
-  - Framework
+  - Framework h
   - Platform
-  - Source code
+  - Source code h
   - Object code
   - Machine code
   - Microcode
@@ -32,35 +32,35 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
+  - Value u
+  - Identifier u
+  - Variable u
   - Constant
   - Scalar
   - Literal
-  - Expression
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class u
   - Prototype
   - Event
   - Type
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Lexical scope h
+  - Code block u
+  - Conditions u
+  - Loops u 
+  - Assignment u
+  - Regular expression h
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
   - Camel case
-  - Snake case
+  - Snake case u
   - Kebab case
   - Trailing commas
   - Return early
@@ -85,13 +85,13 @@
   - Argument
   - Parameter
   - Pure function
-  - Lambda expression
+  - Lambda expression k
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,20 +105,20 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object u
+  - Collection k
   - Set
-  - Hash table
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue h
   - Stack
   - Deque
   - Tree
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
@@ -160,19 +160,19 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring h
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops k
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system h
+  - Linux h
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
