@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -25,42 +25,42 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
-  - Foreign keys h
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions k
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
+  - `ORDER BY`: 🎓 known
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
   - `JOIN`
-  - `INNER JOIN` k
-  - `LEFT JOIN` k
-  - `RIGHT JOIN` k
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
   - `UNION`
   - `DISTINCT`
-  - `WHERE` k
+  - `WHERE`: 🎓 known
   - `LIKE`
-  - `IN` k
-  - `BETWEEN` k
-  - `CREATE TABLE` k
-  - `ALTER TABLE` k
-  - `DROP TABLE` k
-  - `PRIMARY KEY` h
-  - `FOREIGN KEY` h
+  - `IN`: 🎓 known
+  - `BETWEEN`: 🎓 known
+  - `CREATE TABLE`: 🎓 known
+  - `ALTER TABLE`: 🎓 known
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 👂 heard
+  - `FOREIGN KEY`: 👂 heard
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
+  - PostgreSQL: 👂 heard
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB h
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite k
+  - SQLite: 🎓 known
   - DynamoDB
   - Firebase
 - Data engineering

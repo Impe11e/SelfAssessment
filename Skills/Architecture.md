@@ -8,11 +8,11 @@
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID k
+  - SOLID: 🎓 known
   - CQS
-  - Modularity u
-  - Subsystems h
-  - Directories u
+  - Modularity: 🖐️ used
+  - Subsystems: 👂 heard
+  - Directories: 🖐️ used
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -50,7 +50,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
