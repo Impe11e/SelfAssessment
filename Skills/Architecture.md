@@ -8,7 +8,7 @@
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID k
   - CQS
   - Modularity h
   - Subsystems
