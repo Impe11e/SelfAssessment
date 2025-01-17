@@ -4,76 +4,76 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm k
-  - Syntax k
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language k
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
-  - Module u
-  - Library u
-  - Package u
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework h
+  - Framework: 👂 heard
   - Platform
-  - Source code h
-  - Object code
-  - Machine code
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering: 🎓 known
+  - Decomposition: 👂 heard
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression u
-  - Heap
-  - Function u
-  - Procedure
-  - Method u
-  - Class u
+  - Expression: 🖐️ used
+  - Heap: 🎓 known
+  - Function: 🖐️ used
+  - Procedure: 🎓 known
+  - Method: 🖐️ used
+  - Class: 👂 heard
   - Prototype
-  - Event
-  - Type
+  - Event: 👂 heard
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope h
-  - Code block u
-  - Conditions u
-  - Loops u 
-  - Assignment u
-  - Regular expression h
+  - Lexical scope: 🎓 known
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 👂 heard
   - Interface
   - Namespaces
-  - Call stack
-  - Naming conventions
+  - Call stack: 🎓 known
+  - Naming conventions: 🎓 known
   - Coding conventions
-  - Camel case
-  - Snake case u
-  - Kebab case
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing: 🎓 known
+  - Weak typing: 🎓 known
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -82,21 +82,21 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression k
-  - Side effects
-  - Closure
-  - Partial application
+  - Lambda expression: 🎓 known
+  - Side effects: 👂 heard
+  - Closure: 🖐️ used
+  - Partial application: 👂 heard
   - Currying
-  - Higher order
-  - Recursion h
+  - Higher order: 🖐️ used
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback
+  - Callback: 🖐️ used
   - Listener
-  - Composition
-  - Pipe
+  - Composition: 🖐️ used
+  - Pipe: 👂 heard
   - Memoize
   - Wrapper
   - Functor
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
-  - Collection k
-  - Set
-  - Hash table h
-  - Linked list
+  - Object: 🖐️ used
+  - Collection: 🎓 known
+  - Set: 🖐️ used
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue h
+  - Queue: 👂 heard
   - Stack
   - Deque
-  - Tree
-  - Graph
+  - Tree: 👂 heard
+  - Graph: 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -138,42 +138,42 @@
   - IPv4
   - IPv6
   - NAT
-  - URL u
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler y
+  - Just-in-time compilation y
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter y
   - Polyfill
-  - Interpreter
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 🎓 known
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection
-  - Refactoring h
-  - Code review k
-  - Exception
+  - Garbage collection: 🖐️ used
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
+  - Exception: 🎓 known
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
-  - GCC
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code k
-  - Soft code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -181,19 +181,19 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops k
-  - Long method/function/procedure
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 👂 heard
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers h
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
-  - File system h
-  - Linux h
-  - Unix h
+  - File system
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII k
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 u
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

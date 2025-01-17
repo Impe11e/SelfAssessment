@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming 🖐️ used
   - Structured programming
   - Non-structured programming
-  - Functional programming h
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 🎓 known
   - Object-based programming
-  - Generic programming
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asynchronous programming h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
-  - Operator `new`
+  - Constructor: 🎓 known
+  - Operator `new`: 🎓 known
   - Static method
-  - Method h
+  - Method: 🎓 known
   - Async method
-  - Getters, Setters h
-  - Public fields h
-  - Private fields h
+  - Getters, Setters: 👂 heard
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
   - Field declarations
-  - Inheritance k
-  - Parent class k
-  - Polymorphism k
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
   - Abstract class
   - Interface
-  - Encapsulation k
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance k
+  - Instance: 🎓 known
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,17 +58,17 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) k
-  - Open–closed principle (OCP) k
-  - Liskov substitution principle (LSP) h
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
   - Singleton
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
