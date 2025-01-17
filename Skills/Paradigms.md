@@ -3,9 +3,9 @@
 - Theory
   - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
-  - Structured programming
-  - Non-structured programming
-  - Functional programming: 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming
   - Object-oriented programming: 🎓 known
   - Object-based programming
